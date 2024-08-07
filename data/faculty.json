@@ -1,0 +1,842 @@
+[
+    {
+      "department": "경상대학",
+      "rank": "부교수",
+      "retirementTrack": "비정년트랙(교육전담C)",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경상대학",
+      "rank": "조교수",
+      "retirementTrack": "비정년트랙(교육전담C)",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경상대학",
+      "rank": "석좌 교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "겸임교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "객원교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "특임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경제학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "부교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "부교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "해당없음",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "경영학부",
+      "rank": "Teaching Fellow",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "부교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "명예교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "보험계리학과",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "부교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "조교수",
+      "retirementTrack": "비정년트랙(교육전담C)",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "조교수",
+      "retirementTrack": "정년트랙",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "겸임교수",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "장학조교",
+      "retirementTrack": "",
+      "foreigner": "외국인"
+    },
+    {
+      "department": "회계세무학과",
+      "rank": "강사",
+      "retirementTrack": "",
+      "foreigner": "내국인"
+    }
+  ]
